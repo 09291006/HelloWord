@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/python/main/Main.py=utf-8
+encoding//src/com/python/utils/config/applicatConfig.py=utf-8
+encoding//src/com/python/utils/db/mongo/MongoDbUtils.py=utf-8
+encoding//src/com/python/utils/db/mysql/MysqlDbUtils.py=utf-8
+encoding//src/com/python/utils/image/DrawImage.py=utf-8
+encoding/<project>=UTF-8
