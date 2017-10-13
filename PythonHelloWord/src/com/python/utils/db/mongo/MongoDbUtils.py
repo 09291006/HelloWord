@@ -7,6 +7,8 @@ Created on 2017年6月2日
 import pymongo
 from com.python.utils.config import applicatConfig
 
+
+
 '''
 获取数据库连接
 '''
